@@ -1,5 +1,5 @@
-# Big-data-installation
-Big data installation details
+# Big-Data-installation
+Big Data installation details
 
 
 Downlaod cloudera
